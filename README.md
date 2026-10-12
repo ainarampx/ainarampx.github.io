@@ -42,7 +42,7 @@ My CV is available in:
 
 ## Technical stack
 
-**R · Python · SQL · Power BI · R Shiny · Dash · BigQuery · Excel · Git · sf · Leaflet · Plotly**
+**R · Python · SQL · Power BI · R Shiny · Dash · BigQuery ·SAS · Excel · Git · sf · Leaflet · Plotly**
 
 ## About me
 

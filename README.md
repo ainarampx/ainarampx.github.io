@@ -9,7 +9,7 @@ This repository contains the source code of my portfolio website, where I showca
 
 ## Featured work
 
-- **Datexbio — Senior Data Analyst (Freelance)**
+- **Datexbio —  Data Analyst (Freelance)**
   Development and redesign of an R Shiny analytics application for territorial inspection monitoring, including data integration, reactive dashboards and geospatial visualisations.
 
 - **Supermarket Sales — Python Dash**
